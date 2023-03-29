@@ -80,4 +80,4 @@ with gr.Blocks(theme=gr.themes.Soft()) as demo:
     
     gr.Markdown("<center> Made with ❤️ by Tanish Gupta. Credits to 🤗 Spaces for Hosting this App </center>")
 
-demo.launch(share=True)
+demo.launch()
